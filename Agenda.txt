@@ -44,24 +44,20 @@ Twitter
 	- I’ve changed the Font for the top image
 
 
-Show book iPhone/iPad development
-
 For the next two weeks:
-- Start apps - time!!
++ Start apps - time!!
 - Presentation
-- Create github organization + add Projects
-- Take picture for twitter account
++ Create github organization + add Projects
+- Take picture for twitter account (Thursday)
 
 
+Note from another event - Event started at 6:30 but didn't really start until later.
 
-Notes from another event
-
-Event started at 6:30 but didn't really start until later.
 **Since Katy and Allen can't make it maybe we can have speakers from Wilfredo.
 
 
 Setup Meetup/Eventbrite
 Pink Umbrella
-Name??????
+Name “Cozy”
 and Layout
-“Cozy”
+
