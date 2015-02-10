@@ -1,0 +1,67 @@
+#GoogleGlassEvent
+Friday
+	- Intro (night)
+	- App Launch
+		Katy/Allen * can't make it to the event.
+		start at 6
+		6:30 - 7 talks
+		7-7:30 launch
+	- Socialize
+
+
+Saturday
+	- Mirror API setup and GAE 11 - 1
+	- Simple Android App? (for the very beginners) 9 - 11
+		* GDK tutorials suggest having previous Android Experience
+	- GDK 1 - 3
+	- Android Watch Tutorial 3 - 5
+	- Mirror API (AWS?)
+
+
+#Everyday
+	- Creating a separate web page to display a fake timeline
+	  and users can share to Facebook or Twitter from there
+ 	  (make it web based because the app is web based until someone gets glass)
+	- Async Task - Android
+	  Companion App!
+
+
+Presentation
+	- Mirror API ready (maybe update a couple of things) Update images to IntelliJ
+	- GDK * right now only how to install Android Studio
+	- Wearable watch presentation missing
+
+
+Apps
+	- Prepare the GDK weather app
+		* Simple, show the weather, maybe show hourly for the next 5 hours?
+		  Choose location with Glass - Say location?
+	- For Mirror API, prepare the notifications that would be sent for weather
+	- For Watch maybe the same notifications that are sent to Mirror API?
+
+
+Twitter
+	- I’ve changed the Font for the top image
+
+
+Show book iPhone/iPad development
+
+For the next two weeks:
+- Start apps - time!!
+- Presentation
+- Create github organization + add Projects
+- Take picture for twitter account
+
+
+
+Notes from another event
+
+Event started at 6:30 but didn't really start until later.
+**Since Katy and Allen can't make it maybe we can have speakers from Wilfredo.
+
+
+Setup Meetup/Eventbrite
+Pink Umbrella
+Name??????
+and Layout
+“Cozy”
