@@ -1,4 +1,10 @@
 #GoogleGlassEvent
+
+Launch Day - Friday
+Hands on wearables - Saturday
+
+
+
 Friday
 	- Intro (night)
 	- App Launch
@@ -15,7 +21,9 @@ Saturday
 		* GDK tutorials suggest having previous Android Experience
 	- GDK 1 - 3
 	- Android Watch Tutorial 3 - 5
-	- Mirror API (AWS?)
+
+	Join mirror api/gdk?????
+
 
 
 #Everyday
@@ -49,6 +57,8 @@ For the next two weeks:
 - Presentation
 + Create github organization + add Projects
 - Take picture for twitter account (Thursday)
+- Setup a meetup account/eventbrite
+-
 
 
 Note from another event - Event started at 6:30 but didn't really start until later.
@@ -56,8 +66,65 @@ Note from another event - Event started at 6:30 but didn't really start until la
 **Since Katy and Allen can't make it maybe we can have speakers from Wilfredo.
 
 
-Setup Meetup/Eventbrite
 Pink Umbrella
 Name “Cozy”
 and Layout
 
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+Make Doodle for the days they are free
+
+Day 1 (Networking):
+Pace Schedule App
+Everyday App
+2 teams = Plant App/ Game App
+SpaceBeep
+Intellibins presentation
+
+Booths for teams
+
+Food!
+Posters!
+
+Get nails for event! :D :D :D
+
+
+Allen/Katy = try the app!
+talk about it on social media
+video?
+
+Mask the URL for port 8080
+
+
+Augmate - get glasses; short presentation from them?
+
+
+
+Android Development = first event
+Will ask students when they are available
+
+
+Then watch
+
+Then mirror api - GAE
+	AWS
+	GCE
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
